@@ -15,6 +15,7 @@ The dashboard enables users to explore patient admissions, disease trends, and r
 
 ![Dashboard](images/overview.png)
 
+#### The dashboard is fully interactive and allows dynamic analysis using filters such as Gender and Year.
 ---
 
 ## 🛠 Tools & Features Used
